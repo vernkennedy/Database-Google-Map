@@ -1,0 +1,19 @@
+Database Driven Google Map Application
+
+An HTML5-based web application that plots an arbitrary set of geographic points on a map using Google Maps mapping library.
+
+The points are clickable so that further HTML content can be displayed about each point, and the map support common activities such as panning and zooming. 
+
+The geographic points and accompanied popup HTML content are stored in a backend database i.e MySQL,and a PHP script is used to read the data and produce content for the front-end Javascript application to interpret.
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
